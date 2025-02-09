@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 fCC Cat Painting
 
 This project is a simple CSS and HTML illustration of a cat's face. It is built using only HTML and CSS, without any JavaScript or external frameworks. The design was inspired by freeCodeCamp's CSS challenges.
